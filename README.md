@@ -1,2 +1,2 @@
 # Coursera-HTML-CSS-JS-Assignments
-click to view the output:https://pradeep0509.github.io/Coursera-HTML-CSS-JS-Assignments/Module 3
+click to view the output:https://pradeep0509.github.io/Coursera-HTML-CSS-JS-Assignments/
